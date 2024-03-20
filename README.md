@@ -1,3 +1,3 @@
 # pystocks_algo_v1
 
-Created this project to explore the 'yfinance' python library and dip my toes into algo trading.
+This repo is for a python trading bot which pulls data from yahoo finance. I got the idea for this specific strategy from my econ professor in college. The thesis is fairly simple, with using the second derivative as an indicator for buy and sell signals; when the 2nd derivative hits an inflection point and goes from negative to positive, this may be indicative of the emergence of an upward sloping curve in the function, and therefore an increase in the stock's price. This strategy isn't perfect, as the accuracy of back-tests will be skewed since the closing price of day(X) heavily influences d2ydx2 of day(X-1). Regardless, I enjoyed the project and learned alot in its creation. 
