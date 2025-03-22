@@ -6,7 +6,7 @@ This strategy isn't perfect, as the accuracy of back-tests will be skewed since 
 
 ## Performance<br />
 <img src="images/pnl.jpg" alt="Example Image 2" width="1000"><br />
-- Unforunately this is just paper money.
+- Sadly, this is just a paper account.
 - The bot has performed well, but this is mostly due to the fact that I only tested it with blue chip stocks that have performed well in the market the last year or so, so it's just been holding those since I last ran the bot.
 - To automate this further I'd like to set it up on a schedule and use some sort of process to choose what stocks the bot evaluates instead of hardcoding them.
 
