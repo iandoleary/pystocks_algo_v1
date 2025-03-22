@@ -6,7 +6,7 @@ This strategy isn't perfect, as the accuracy of back-tests will be skewed since 
 
 ## Performance<br />
 <img src="images/pnl.jpg" alt="Example Image 2" width="1000"><br />
-- Unforunately this is paper money.
+- Unforunately this is just paper money.
 - The bot has performed well, but this is mostly due to the fact that I only tested it with blue chip stocks that have performed well in the market the last year or so.
 
 ## Plot Example<br />
