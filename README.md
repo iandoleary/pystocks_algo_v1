@@ -4,7 +4,7 @@ This Python bot trades stocks based on technical analysis. I got the idea for th
 
 This strategy isn't perfect, as the accuracy of back-tests will be skewed since the closing price of day(X) heavily influences d2ydx2 of day(X-1). Regardless, I enjoyed the project and learned alot in its creation. 
 
-## Plot Example<br />
+## Performance<br />
 <img src="images/pnl.jpg" alt="Example Image 2" width="1000"><br />
 - Unforunately this is paper money.
 - The bot has performed well, but this is mostly due to the fact that I only tested it with blue chip stocks that have performed well in the market the last year or so.
@@ -13,6 +13,6 @@ This strategy isn't perfect, as the accuracy of back-tests will be skewed since 
 <img src="images/stock_plot.jpg" alt="Example Image 2" width="1000"><br />
 - Here's what the plot looks like with the fitted curve.
 
-## Performance<br />
+## Evaluation<br />
 <img src="images/output.jpg" alt="Example Image 2" width="1000"><br />
 - Here's how the bot is evaluation what to buy and sell.
